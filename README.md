@@ -24,6 +24,11 @@
 </p>
   
 <p align="center">
-<!--   <img width=400 src="https://www.codewars.com/users/Timenem/badges/large" /> -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Timenem&theme=cobalt&border_radius=16&hide_title=true)](https://github.com/timenem/github-readme-stats)"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Timenem&theme=cobalt&border_radius=16&hide_title=true)](https://github.com/timenem/github-readme-stats)"/>
+</p>
+
+<!-- codewars  -->
+  <h3 align="center">My achievements on codewars</h3>
+<p align="center">
+  <img src="https://www.codewars.com/users/Timenem/badges/large"/>
 </p>
