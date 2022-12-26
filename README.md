@@ -1,5 +1,4 @@
 <h3 align="center"> Hi there 👋
-<h3 align="center">I am a self-taught programmer </h3>
 <!-- langs block -->
   <p align="center">
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
