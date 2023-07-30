@@ -26,6 +26,10 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Timenem&theme=cobalt&border_radius=16&hide_title=true)](https://github.com/timenem/github-readme-stats)"/>
 </p>
 
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/timenem/count.svg" />
+</p>
 <!-- codewars  -->
   <h3 align="center">My achievements on codewars</h3>
 <p align="center">
